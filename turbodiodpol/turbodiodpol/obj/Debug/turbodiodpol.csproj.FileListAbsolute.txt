@@ -1,0 +1,10 @@
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\bin\Debug\turbodiodpol.exe.config
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\bin\Debug\turbodiodpol.exe
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\bin\Debug\turbodiodpol.pdb
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.csprojResolveAssemblyReference.cache
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.Properties.Resources.resources
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.exe
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.pdb
+C:\Users\pawel\Desktop\Projekt2TCP-master\ProjektProgramowanieObiektowe\turbodiodpol\turbodiodpol\turbodiodpol\obj\Debug\turbodiodpol.Form1.resources
